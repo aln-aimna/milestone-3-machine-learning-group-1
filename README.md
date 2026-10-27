@@ -9,7 +9,7 @@ Our repository is organized into three independent Machine Learning projects: Cl
 | Project | Assigned Member |
 |---|---|
 | Classification — Hotel Booking Cancellation Prediction | **Carlo Sismundo** |
-| Regression — Ames Housing Price Prediction | **Erica and Kizzele** |
+| Regression — Ames Housing Price Prediction | **Erika and Kezelle** |
 | Clustering — Unsupervised Learning | **Allen** |
 
 ## Projects
