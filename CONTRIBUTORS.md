@@ -29,7 +29,7 @@ Responsibilities:
 - Model evaluation results and visualizations
 - Classification project README
 
-### 2. Erica — Time Scheduler and Project Coordinator
+### 2. Erika — Time Scheduler and Project Coordinator
 
 **Primary responsibility:** Project coordination, scheduling, and progress monitoring
 
