@@ -35,7 +35,7 @@ This project applies classification algorithms to a hotel booking dataset. It co
 
 ### 2. Regression — Ames Housing Price Prediction
 
-**Assigned to:** Erica and Kizzele
+**Assigned to:** Erica and Kezelle
 
 **Objective:** Predict residential property sale prices using housing characteristics.
 
