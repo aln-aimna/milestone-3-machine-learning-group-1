@@ -1,4 +1,4 @@
-# Machine Learning Projects Portfolio
+# Milestone3 - Machine Learning - Team Projects
 
 A collaborative Machine Learning portfolio developed as part of our **Python for Data & AI training at Uplift Code Camp**. This group project demonstrates our practical application of data preparation, exploratory data analysis, preprocessing, model development, and evaluation using Python.
 
