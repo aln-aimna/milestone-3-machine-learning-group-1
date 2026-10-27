@@ -52,7 +52,7 @@ Responsibilities:
 
 **Important:** The coordinator role supports the technical work; it does not replace a member's responsibility to contribute to the Machine Learning project.
 
-### 3. Kizzele — Regression Lead
+### 3. Kezelle — Regression Lead
 
 **Primary responsibility:** Ames Housing Price Prediction
 
